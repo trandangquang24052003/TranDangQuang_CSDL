@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DataStructuresAssociativeArrays(Dictionaries)", "DataStructuresAssociativeArrays(Dictionaries)\DataStructuresAssociativeArrays(Dictionaries).pyproj", "{DFA379F8-94F7-45AD-B46A-0460F5A625AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA379F8-94F7-45AD-B46A-0460F5A625AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA379F8-94F7-45AD-B46A-0460F5A625AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94456895-F94C-4FA6-9AE5-EBB16C0651D5}
+	EndGlobalSection
+EndGlobal

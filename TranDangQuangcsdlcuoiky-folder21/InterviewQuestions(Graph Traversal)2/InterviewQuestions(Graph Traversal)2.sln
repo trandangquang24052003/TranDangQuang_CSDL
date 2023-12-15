@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InterviewQuestions(Graph Traversal)2", "InterviewQuestions(Graph Traversal)2\InterviewQuestions(Graph Traversal)2.pyproj", "{25A74521-C371-474B-BD99-A315764729BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25A74521-C371-474B-BD99-A315764729BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A74521-C371-474B-BD99-A315764729BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00FF3760-84A4-4428-97A3-2AE2BC71BD57}
+	EndGlobalSection
+EndGlobal
